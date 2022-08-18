@@ -10,4 +10,4 @@ try {
 } catch(err) {}
 
 
-exports.dayOfTheWeek = dayOfTheWeek;
+exports.dayOfTheWeek = dayOfTheWeeks;
